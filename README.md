@@ -25,7 +25,7 @@ Note: Rather than working in this template notebook, make a brand new "scraping"
 - **Create and compare two models**. Any two classifiers at least of your choosing: random forest, logistic regression, KNN, SVM, etc.
 - A Jupyter Notebook with your analysis for a peer audience of data scientists.
 - An executive summary of your results.
-- A short presentation outlining your process and findings for a semi-technical audience.
+- A short presentation (5-8 minutes) outlining your process and findings for a semi-technical audience.
 
 **Pro Tip:** You can find a good example executive summary [here](https://www.proposify.biz/blog/executive-summary).
 
